@@ -1,0 +1,16 @@
+*.xlsx
+*.pdf
+**/IGA
+schema.ini
+**/Deliverables
+**/*deprecated*
+*.txt
+*.bas
+**/RLIS2010
+**/Knot
+**/nhood_profiles_gis
+**/NMap*
+**/Notes
+**/*ppt*
+*.lock
+Thumbs.db
